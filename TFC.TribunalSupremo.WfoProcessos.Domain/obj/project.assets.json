@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admar dos Santos\\Documents\\PROJECTO_FINAL_2018\\VS\\TFC.TribunalSupremo.WfoProcessos\\TFC.TribunalSupremo.WfoProcessos.Domain\\TFC.TribunalSupremo.WfoProcessos.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Admar dos Santos\\Documents\\PROJECTO_FINAL_2018\\VS\\TFC\\TFC.TribunalSupremo.WfoProcessos.Domain\\TFC.TribunalSupremo.WfoProcessos.Domain.csproj",
       "projectName": "TFC.TribunalSupremo.WfoProcessos.Domain",
-      "projectPath": "C:\\Users\\Admar dos Santos\\Documents\\PROJECTO_FINAL_2018\\VS\\TFC.TribunalSupremo.WfoProcessos\\TFC.TribunalSupremo.WfoProcessos.Domain\\TFC.TribunalSupremo.WfoProcessos.Domain.csproj",
+      "projectPath": "C:\\Users\\Admar dos Santos\\Documents\\PROJECTO_FINAL_2018\\VS\\TFC\\TFC.TribunalSupremo.WfoProcessos.Domain\\TFC.TribunalSupremo.WfoProcessos.Domain.csproj",
       "packagesPath": "C:\\Users\\Admar dos Santos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admar dos Santos\\Documents\\PROJECTO_FINAL_2018\\VS\\TFC.TribunalSupremo.WfoProcessos\\TFC.TribunalSupremo.WfoProcessos.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Admar dos Santos\\Documents\\PROJECTO_FINAL_2018\\VS\\TFC\\TFC.TribunalSupremo.WfoProcessos.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
