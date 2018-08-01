@@ -10,12 +10,9 @@ namespace TFC.TribunalSupremo.WfoProcessos.Domain.Moldes
         public string Requerida { get; set; }
         public int NumeroOrdem { get; set; }
         public Especie EspecieRecurso { get; set; }
-        public Proveniencia Proveniencia { get; set; }
+        public Guid RelatorId { get; set; }
         public Relator Relator { get; set; }
         public IList<Relator> Adjuntos { get; set; }
-
-
-
     }
 
     public enum Especie
