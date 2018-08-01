@@ -13,6 +13,7 @@ namespace TFC.TribunalSupremo.WfoProcessos.Domain.Moldes
         public Guid RelatorId { get; set; }
         public Relator Relator { get; set; }
         public IList<Relator> Adjuntos { get; set; }
+        public Guid ProcessoRegistadoId { get; set;}
     }
 
     public enum Especie
