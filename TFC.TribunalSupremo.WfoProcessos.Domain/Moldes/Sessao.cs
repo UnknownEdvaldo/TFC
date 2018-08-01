@@ -9,10 +9,8 @@ namespace TFC.TribunalSupremo.WfoProcessos.Domain.Moldes
         public Guid SessaoId { get; set; }
         public string NomeProcesso { get; set; }
         public DateTime DataSessao { get; set; }
-
-
-
-
+        public Guid ProcessoId { get; set; }
+        public Processo ProcessoAgendado { get; set; }
     }
 
     public enum Especie
