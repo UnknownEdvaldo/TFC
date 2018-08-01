@@ -8,5 +8,6 @@ namespace TFC.TribunalSupremo.WfoProcessos.Domain.Moldes
     {
         public Guid ProvenienciaId { get; set; }
         public string NomeProveniencia { get; set; }
+        public IList<Processo> Processos { get; set; }
     }
 }
