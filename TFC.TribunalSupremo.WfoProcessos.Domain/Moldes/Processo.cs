@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TFC.TribunalSupremo.WfoProcessos.Domain.Moldes
+namespace TFC.TribunalSupremo.WfoProcessos.Domain.Models
 {
-    public abstract class Processo
+    public abstract class Processo : IEntidade
     {
         public Guid Id { get; set; }
         public Proveniencia Proveniencia { get; set; }

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TFC.TribunalSupremo.WfoProcessos.Domain.Moldes
+namespace TFC.TribunalSupremo.WfoProcessos.Domain.Models
 {
     public class Utilizador
     {

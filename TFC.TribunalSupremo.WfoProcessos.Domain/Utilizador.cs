@@ -1,5 +1,5 @@
 ﻿using System;
-using TFC.TribunalSupremo.WfoProcessos.Domain.Moldes;
+using TFC.TribunalSupremo.WfoProcessos.Domain.Models;
 
 namespace TFC.TribunalSupremo.WfoProcessos.Domain
 {

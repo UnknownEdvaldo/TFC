@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using TFC.TribunalSupremo.WfoProcessos.Domain;
 
-namespace TFC.TribunalSupremo.WfoProcessos.Domain.Moldes
+namespace TFC.TribunalSupremo.WfoProcessos.Domain.Models
 {
-    public class Sessao
+    public class Sessao : IEntidade
     {
         public Guid SessaoId { get; set; }
         public string NomeProcesso { get; set; }
@@ -15,10 +16,4 @@ namespace TFC.TribunalSupremo.WfoProcessos.Domain.Moldes
 
     }
 
-    public enum Especie
-    {
-        Apelacao,
-        Agravo
-
-    }
 }

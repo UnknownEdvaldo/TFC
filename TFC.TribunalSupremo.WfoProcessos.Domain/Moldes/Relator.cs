@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TFC.TribunalSupremo.WfoProcessos.Domain.Moldes
+namespace TFC.TribunalSupremo.WfoProcessos.Domain.Models
 {
-    public class Relator
+    public class Relator : IEntidade
     {
         public Guid RelatorId { get; set; }
         public int NumeroJuiz { get; set; }

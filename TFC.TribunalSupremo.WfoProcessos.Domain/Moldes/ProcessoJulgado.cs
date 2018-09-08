@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TFC.TribunalSupremo.WfoProcessos.Domain.Moldes
+namespace TFC.TribunalSupremo.WfoProcessos.Domain.Models
 {
     public class ProcessoJulgado : Processo
     {
